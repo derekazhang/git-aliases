@@ -162,3 +162,58 @@ td:first-child {
     --table-text-color: var(--light-red);
     --table-border-color: var(--red);
 }
+
+#apply {
+    --table-text-color: var(--light-blue);
+    --table-border-color: var(--blue);
+}
+
+#switch {
+    --table-text-color: var(--light-green);
+    --table-border-color: var(--green);
+}
+
+#clone {
+    --table-text-color: var(--light-red);
+    --table-border-color: var(--red);
+}
+
+#push {
+    --table-text-color: var(--light-red);
+    --table-border-color: var(--red);
+}
+
+#fetch {
+    --table-text-color: var(--light-orange);
+    --table-border-color: var(--orange);
+}
+
+#pull {
+    --table-text-color: var(--light-orange);
+    --table-border-color: var(--orange);
+}
+
+#merge {
+    --table-text-color: var(--light-red);
+    --table-border-color: var(--red);
+}
+
+#restore {
+    --table-text-color: var(--turqouise);
+    --table-border-color: var(--light-turquoise);
+}
+
+#worktree {
+    --table-text-color: var(--light-violet);
+    --table-border-color: var(--violet);
+}
+
+#submodule {
+    --table-text-color: var(--light-orange);
+    --table-border-color: var(--orange);
+}
+
+#tag {
+    --table-text-color: var(--light-red);
+    --table-border-color: var(--red);
+}
